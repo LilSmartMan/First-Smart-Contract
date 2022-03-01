@@ -1,2 +1,2 @@
-# First-Smart-Contract
-FundMe Contract
+# FundMe-Smart-Contract
+First Smart Contract!!!
